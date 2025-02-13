@@ -55,8 +55,8 @@
 */
 const messages = [
     "¿Estás segura?",
-"Piénsalo bien",
-"¿Estás segura?",
+"Acepta y te irá bien en todo🤭",
+"Di que si y mañana recibirás makis",
 "Clau, por favor...",
 "¡Piénsalo!",
 "Si dices que no, me desmiembro🥹...",
