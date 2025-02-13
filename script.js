@@ -55,15 +55,15 @@
 */
 const messages = [
     "¿Estás segura?",
-"¿Realmente segura?",
+"Piénsalo bien",
 "¿Estás segura?",
-"Pookie, por favor...",
+"Clau, por favor...",
 "¡Piénsalo!",
-"Si dices que no, me desmiembro...",
-"Me pondré muy triste...",
-"Me pondré muy, muy, muy triste...",
+"Si dices que no, me desmiembro🥹...",
+"Ánimate y te ayudo en el DB...",
+"Si aceptas hago cualquier cosa que me pidas...",
 "Está bien, dejaré de preguntar...",
-"Es broma, ¡di que sí, por favor! ❤️"
+"Es broma, ¡eres la mejor! ❤️"
 ];
 
 let messageIndex = 0;
